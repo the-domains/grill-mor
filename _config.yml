@@ -1,0 +1,28 @@
+name: Grill Mór
+favicon: null
+layout_spectrum: 0.5020104362629354
+typography_spectrum: 0.19218630250543356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9264058859553188
+  lightness: 0.007313552079722285
+  saturation: 0.8149309575092047
+  rhythmicContrast: 0.14753656857647002
+purpose: []
